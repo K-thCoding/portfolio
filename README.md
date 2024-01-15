@@ -59,4 +59,4 @@ DS프로젝트 역할면에서는 **_LSTM을 통한 주가 예측 모델 개발_
 > > - Language : React JS
 > > - Skill : Hadoop, spark, node, PostgerSQL, mongoDB
 > >
->
+> > [프로젝트 상세 설명](https://github.com/K-thCoding/Stock-project)
