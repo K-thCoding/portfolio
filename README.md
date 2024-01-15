@@ -60,3 +60,13 @@ DS프로젝트 역할면에서는 **_LSTM을 통한 주가 예측 모델 개발_
 > > - Skill : Hadoop, spark, node, PostgerSQL, mongoDB
 > >
 > > [프로젝트 상세 설명](https://github.com/K-thCoding/Stock-project)
+---
+# 📞 Contact
+
+- 이메일 : kwont7010@gmail.com
+- 블로그 : <a href="https://velog.io/@kwon7010/posts">
+  <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
+  </a>
+- 깃허브 : <a href="https://github.com/K-thCoding">
+  <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
+  </a>
